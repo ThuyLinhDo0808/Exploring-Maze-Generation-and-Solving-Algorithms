@@ -1,0 +1,12 @@
+{
+    "rowNum": 5,
+    "colNum": 5,
+    "weight": "random",
+    "entrances": [[0,-1]],
+    "exits": [[5,4]],
+    "generator": "kruskal",
+    "solver": "recur",
+    "strategy": "greedy",
+    "visualise": true,
+    "fileOutput": "testTaskC-2.png"
+}
